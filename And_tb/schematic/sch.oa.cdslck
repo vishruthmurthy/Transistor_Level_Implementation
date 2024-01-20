@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      MVT
+HostName                       centos.localdomain
+ProcessIdentifier              3561
+ProcessCreationTime_UTC        1694699400
+ProcessCreationTime_Readable   Thu Sep 14 18:50:00 2023 +05
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/MVT/Full_adder_project/And_tb/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Sep 14 19:18:39 2023 +05
